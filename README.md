@@ -97,6 +97,7 @@ Journalism is essential for democracy, holding power to account, and informing t
 - [DocumentCloud](https://www.documentcloud.org/) – Platform for analyzing and publishing primary source documents.
 - [TimelineJS](https://timeline.knightlab.com/) – Create interactive, visually rich timelines using Google Sheets.
 - [StoryMapJS](https://storymap.knightlab.com/) – Create interactive stories with maps and multimedia elements.
+- [The Data Board](https://thedataboard.ai/) – Semantic CSV-to-narrative discovery and presentation.
 
 ## Related Awesome Lists
 
