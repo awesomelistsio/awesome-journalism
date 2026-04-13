@@ -87,6 +87,7 @@ Journalism is essential for democracy, holding power to account, and informing t
 
 ## News APIs & Tools
 
+- [Helium](https://heliumtrades.com/mcp-page/) – AI-powered media bias analysis across 5,000+ sources and 15+ dimensions, balanced news synthesis from multiple perspectives, and article-level bias scoring. Available as an [MCP server](https://github.com/connerlambden/helium-mcp) for AI assistants. Free tier: 50 queries, no signup.
 - [News API](https://newsapi.org/) – Aggregates headlines and articles from major news outlets.
 - [Mediastack](https://mediastack.com/) – Real-time, REST-based news delivery API.
 - [NY Times Developer Network](https://developer.nytimes.com/) – APIs for accessing articles, archives, comments, and more.
