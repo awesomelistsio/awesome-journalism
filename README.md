@@ -58,6 +58,7 @@ Journalism is essential for democracy, holding power to account, and informing t
 - [DataJournalism.com](https://datajournalism.com/) – Resources and tools for data-driven storytelling.
 - [The Data Journalism Handbook](https://datajournalismhandbook.org/) – Open guide to data journalism.
 - [OpenNews](https://opennews.org/) – Connects developers and journalists through code, design, and community.
+- [Crime Brasil](https://crimebrasil.com.br) – Brazilian crime-data platform for journalists: ~3M geocoded incidents (RS neighborhood-level, MG/RJ municipality), national PRF/DATASUS. Free API + CSV exports, CC BY 4.0.
 
 ## Digital & Online Journalism
 
