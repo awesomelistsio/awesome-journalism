@@ -90,6 +90,7 @@ Journalism is essential for democracy, holding power to account, and informing t
 - [News API](https://newsapi.org/) – Aggregates headlines and articles from major news outlets.
 - [Mediastack](https://mediastack.com/) – Real-time, REST-based news delivery API.
 - [NY Times Developer Network](https://developer.nytimes.com/) – APIs for accessing articles, archives, comments, and more.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) – MCP server for AI agent trust scoring on Solana. Verify agent wallet identity before x402 micropayments. Free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`.
 
 ## Open Source Projects
 
