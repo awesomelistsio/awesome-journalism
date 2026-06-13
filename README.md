@@ -87,6 +87,7 @@ Journalism is essential for democracy, holding power to account, and informing t
 
 ## News APIs & Tools
 
+- [Albis](https://www.albis.news/?utm_source=github&utm_medium=referral&utm_campaign=awesome_journalism) – News-intelligence feed for spotting global stories, coverage gaps, and framing differences your usual feed may miss.
 - [News API](https://newsapi.org/) – Aggregates headlines and articles from major news outlets.
 - [Mediastack](https://mediastack.com/) – Real-time, REST-based news delivery API.
 - [NY Times Developer Network](https://developer.nytimes.com/) – APIs for accessing articles, archives, comments, and more.
