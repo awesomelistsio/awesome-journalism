@@ -1,4 +1,4 @@
-# Awesome Journalism [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Journalism [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -100,10 +100,10 @@ Journalism is essential for democracy, holding power to account, and informing t
 
 ## Related Awesome Lists
 
-- **[Awesome Human Rights](https://github.com/awesomelistsio/awesome-human-rights)** – Curated resources on global human rights issues.
-- **[Awesome Climate Change](https://github.com/awesomelistsio/awesome-climate-change)** – High-quality climate change datasets, tools, and projects.
-- **[Awesome Political Science](https://github.com/awesomelistsio/awesome-political-science)** – Academic and open resources on politics and governance.
-- **[Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science)** – Tools and resources supporting scientific transparency and reproducibility.
+- **[Awesome Human Rights](https://github.com/brandonhimpfen/awesome-human-rights)** – Curated resources on global human rights issues.
+- **[Awesome Climate Change](https://github.com/brandonhimpfen/awesome-climate-change)** – High-quality climate change datasets, tools, and projects.
+- **[Awesome Political Science](https://github.com/brandonhimpfen/awesome-political-science)** – Academic and open resources on politics and governance.
+- **[Awesome Open Science](https://github.com/brandonhimpfen/awesome-open-science)** – Tools and resources supporting scientific transparency and reproducibility.
 
 ## Contribute
 
